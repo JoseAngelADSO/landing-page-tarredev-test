@@ -5,19 +5,19 @@ export const dataAboutMe = [
         id: 1,
         name: "Experiencia",
         icon: <Briefcase />,
-        description: "+4 años de experiencia",
+        description: "+1 años de experiencia",
     },
     {
         id: 2,
         name: "Clientes",
         icon: <UsersRound />,
-        description: "+200 clientes satisfechos",
+        description: "+2 clientes satisfechos",
     },
     {
         id: 3,
         name: "Proyectos",
         icon: <Wrench />,
-        description: "+50 completados",
+        description: "+8 completados",
     },
 ];
 
@@ -76,45 +76,25 @@ export const dataSlider = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Web Pro",
+        title: "CRUD PRINCIPIANTE",
         image: "/image-1.jpg",
-        urlGithub: "#!",
+        urlGithub: "https://github.com/JoseAngelADSO/Crud_10",
         urlDemo: "#!",
     },
-    {
-        id: 2,
-        title: "Desarrollo Web Ágil",
-        image: "/image-2.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
-    },
-    {
-        id: 3,
-        title: "Estrategias Web",
-        image: "/image-3.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
-    },
-    {
-        id: 4,
-        title: "Navegando Ideas Creativas",
-        image: "/image-4.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
-    },
+    
     {
         id: 5,
-        title: "Sitios Web Impactantes",
+        title: "JUEGOS OLIMPICOS 2024",
         image: "/image-5.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        urlGithub: "https://github.com/JoseAngelADSO/olimpicos24",
+        urlDemo: "https://github.com/JoseAngelADSO/olimpicos24",
     },
     {
         id: 6,
-        title: "Proyectos Web Dinámicos",
+        title: "PROY. ARTES. GUAVIARE",
         image: "/image-6.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        urlGithub: "https://github.com/JoseAngelADSO/artesaniasguaviare",
+        urlDemo: "https://joseangeladso.github.io/artesaniasguaviare/",
     },
 ];
 
@@ -127,32 +107,32 @@ export const dataExperience = [
             {
                 name: "HTML",
                 subtitle: "Experimentado",
-                value: 80,
+                value: 90,
             },
             {
                 name: "CSS",
                 subtitle: "Intermedio",
-                value: 75,
+                value: 55,
             },
             {
                 name: "JavaScript",
-                subtitle: "Experimentado",
-                value: 60,
+                subtitle: "Nada",
+                value: 0,
             },
             {
                 name: "Tailwind CSS",
-                subtitle: "Experimentado",
-                value: 30,
+                subtitle: "Nada",
+                value: 0,
             },
             {
                 name: "React",
-                subtitle: "Experimentado",
-                value: 60,
+                subtitle: "Basico",
+                value: 40,
             },
             {
                 name: "Bootstrap",
                 subtitle: "Basic",
-                value: 50,
+                value: 30,
             },
         ],
     },
@@ -162,33 +142,33 @@ export const dataExperience = [
         experience: [
             {
                 name: "Node JS",
-                subtitle: "Experimentado",
-                value: 80,
+                subtitle: "Nada",
+                value: 0,
             },
             {
                 name: "Mongo DB",
-                subtitle: "Intermedio",
-                value: 75,
+                subtitle: "Nada",
+                value: 0,
             },
             {
                 name: "Python",
-                subtitle: "Basic",
-                value: 60,
+                subtitle: "Basico",
+                value: 30,
             },
             {
                 name: "MySQL",
-                subtitle: "Experimentado",
-                value: 60,
+                subtitle: "Basico",
+                value: 30,
             },
             {
                 name: "PHP",
-                subtitle: "Experimentado",
-                value: 60,
+                subtitle: "Nada",
+                value: 0,
             },
             {
                 name: "Django",
-                subtitle: "Basic",
-                value: 60,
+                subtitle: "Nada",
+                value: 0,
             },
         ],
     },
@@ -244,15 +224,6 @@ export const dataServices = [
             {
                 name: "Estrategias de marketing de contenidos efectivas",
             },
-            {
-                name: "Producción de podcasts informativos y entretenidos",
-            },
-            {
-                name: "Generación de infografías claras y visualmente atractivas",
-            },
-            {
-                name: "Fotografía profesional para capturar momentos excepcionales",
-            },
         ],
     },
     {
@@ -269,15 +240,7 @@ export const dataServices = [
             {
                 name: "Investigación de usuarios para comprender necesidades y expectativas",
             },
-            {
-                name: "Optimización de la usabilidad para mejorar la accesibilidad",
-            },
-            {
-                name: "Pruebas de usabilidad para evaluar la experiencia",
-            },
-            {
-                name: "Diseño responsive para adaptarse a diferentes dispositivos",
-            },
+        
         ],
     },
 ];
@@ -287,22 +250,22 @@ export const dataContact = [
     {
         id: 1,
         title: "Teléfono",
-        subtitle: "+34 677 66 66 33",
-        link: "tel:+34677666633",
+        subtitle: "+57 301 6284449",
+        link: "tel:+573016284449",
         icon: <Phone />,
     },
     {
         id: 2,
         title: "Github",
-        subtitle: "github.com/ratasi",
-        link: "github.com/ratasi",
+        subtitle: " https://github.com/JoseAngelADSO",
+        link: "https://github.com/JoseAngelADSO",
         icon: <Code2 />,
     },
     {
         id: 3,
         title: "Email",
-        subtitle: "email@email.com",
-        link: "mailto:test@test.com",
+        subtitle: "joseangelariasm@hotmail.com",
+        link: "joseangelariasm@hotmail.com",
         icon: <Inbox />,
     },
 ];
@@ -310,7 +273,7 @@ export const dataContact = [
 export const dataTestimonials = [
     {
         id: 1,
-        name: "George Snow",
+        name: "Maria Garcia",
         description:
             "¡Increíble plataforma! Los testimonios aquí son genuinos y me han ayudado a tomar decisiones informadas. ¡Altamente recomendado!",
         imageUrl: "/profile-1.jpeg",
@@ -324,14 +287,14 @@ export const dataTestimonials = [
     },
     {
         id: 3,
-        name: "María García",
+        name: "Jorge Stiven",
         description:
             "Excelente recurso para obtener opiniones auténticas sobre diferentes productos y servicios. Me ha ayudado mucho en mis compras en línea. ¡Bravo por este sitio!",
         imageUrl: "/profile-3.jpeg",
     },
     {
         id: 4,
-        name: "Laura Snow",
+        name: "Laura Salcedo",
         description:
             "¡Qué descubrimiento tan fantástico! Los testimonios aquí son honestos y detallados. Me siento más seguro al tomar decisiones después de leer las experiencias compartidas por otros usuarios.",
         imageUrl: "/profile-3.jpeg",

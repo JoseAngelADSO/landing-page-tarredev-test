@@ -51,14 +51,9 @@ const AboutMe = () => {
                             </div>
                         ))}
                     </div>
-                    <p className="my-8"> Soy un desarrollador apasionado que encuentra su mayor
-                        inspiración entre líneas de código y algoritmos desafiantes.
-                        Cuando no estoy inmerso en la programación, disfruto del aire
-                        libre y el deporte, creyendo firmemente en mantener un equilibrio entre
-                        mente y cuerpo. Además, soy un ávido lector, encontrando en los
-                        libros una fuente inagotable de conocimiento y crecimiento personal.
-                        En las redes sociales, comparto mi pasión por la programación, creando contenido
-                        inspirador y educativo para conectar con otros apasionados del desarrollo de software.</p>
+                    <p className="my-8"> Soy un programador junior entusiasta con una sólida base en lenguajes de programación como HTML/CSS. Me apasiona el desarrollo web y tengo experiencia en la creación de aplicaciones interactivas y sitios responsivos. A lo largo de mis estudios y proyectos personales, he aprendido a trabajar con frameworks como React y Angular, así como a implementar buenas prácticas de codificación y control de versiones utilizando Git.
+
+Soy un aprendiz rápido y disfruto resolver problemas complejos, buscando constantemente oportunidades para mejorar mis habilidades. Me considero un buen comunicador y un jugador de equipo, siempre dispuesto a colaborar y aprender de mis colegas. Mi objetivo es contribuir a proyectos innovadores y seguir creciendo profesionalmente en el campo del desarrollo de software..</p>
 
                     <Button>
                         <Phone size={20} className="mr-2" />Hablamos
